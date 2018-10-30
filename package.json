@@ -4,6 +4,7 @@
   "main": "index.js",
   "scripts": {
     "start": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "build": "vuepress build docs",
+    "deploy": "yarn build && cd ./docs/.vuepress && git init && git add -A && git commit -m 'deploy' && git push -f git@github.com:ozaki25/spring-fest-2018.git master:gh-pages"
   }
 }

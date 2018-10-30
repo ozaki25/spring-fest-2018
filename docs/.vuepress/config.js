@@ -1,4 +1,5 @@
 module.exports = {
+  base: '/spring-fest-2018/',
   title: 'Spring Fest 2018',
   themeConfig: {
     sidebar: [
