@@ -1,4 +1,3 @@
-
 # 実際のプロジェクトでSpringアプリをKotlinで開発して得た気づき集
 
 - ⻑澤 太郎(Ubie株式会社)
@@ -52,7 +51,7 @@ class Xxx (
 
 ## WebFluxとコルーチン
 
-- ReactorのAPI覚えないといけないものとかたくさん
+- ReactorはAPIとか覚えることたくさん
 - Reactorとコルーチンを組み合わせると書きやすい
 - Reactorの世界とKotlinの世界を処理の途中でいったりきたりできる
     - async/awaitとか使って書く
@@ -63,7 +62,7 @@ class Xxx (
 - Spring5からアノテーションなしでもできる
 - mainにKotlin DSLで書く
     - 手動でbeanに登録とか
-    - routingもDSLに書いておく
+    - `@GetMapping`とかも移せるからroutingもそっちに
 
 ## テスト
 
@@ -75,7 +74,7 @@ class Xxx (
 ### JUnit5
 
 - @Nestedでグルーピングしやすくなった
-- `assertThrows<MyException>`って型引数渡せる
+- `assertThrows<MyException>`って感じで型引数渡せる
 
 ### AssertJ
 

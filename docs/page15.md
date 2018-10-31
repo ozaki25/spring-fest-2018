@@ -77,7 +77,7 @@
 ### Kafka
 
 - 高速で安定したStreaming Platform
-- queやjob schedulerとしても利用
+- queueやjob schedulerとしても利用
 - 各サービスはKafkaに書き込むまでが責務
 - 一度書き込んでおけば誰でも取れる
 - spring-kafkaあるけど公式のkafka_clientおすすめ
@@ -102,7 +102,7 @@
 - データ
     - 2 Country
         - 日本と韓国
-    - 60 Developer?
+    - 60 Developer
     - 100 Co-worker
 - コミュニケーション
     - 通訳挟んでTV会議

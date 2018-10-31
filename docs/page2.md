@@ -5,7 +5,7 @@
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/dmcfSdQTKVO4YJ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/makingx/springpcf-jsug-sfh1" title="決済システムの内製化への旅 - SpringとPCFで作るクラウドネイティブなシステム開発 #jsug #sf_h1" target="_blank">決済システムの内製化への旅 - SpringとPCFで作るクラウドネイティブなシステム開発 #jsug #sf_h1</a> </strong> from <strong><a href="https://www.slideshare.net/makingx" target="_blank">Toshiaki Maki</a></strong> </div>
 
-## 内製化に至る道程
+## 内製化に至る過程
 
 ### 2016
 
@@ -26,7 +26,7 @@
     - 古いアーキテクチャで開発コスト増
 - 解決策
     - 監視ツール導入
-    - Springで統一
+    - FWはSpringで統一
     - jenkins, nexus, sonar
 
 ### 2018
@@ -71,9 +71,8 @@
     - Github
     - Nexus
     - Concourse
-- PaaS周り
-    - PAS
-    - RabbitMQ
+- PAS
+- RabbitMQ
 - 監視周り
     - Prometheus
     - Grafana
@@ -129,8 +128,8 @@
     - Logging
 - Zipkin使ってる
     - MySQLのJDBCの処理も見れるようになる
-    - Brave MySQL
-- Grafanaダッシュボードで監視
-    - BOSHで入れるとダッシュボードやアラートデフォルトで入ってる
+        - Brave MySQL
+- Grafanaダッシュボードでメトリクス監視
+    - BOSHで入れるとダッシュボードやアラートがデフォルトで入ってる
     - micrometerの依存追加するだけで使える
 - Kibanaでログを見てる
