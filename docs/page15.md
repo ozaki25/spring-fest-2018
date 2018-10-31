@@ -2,6 +2,8 @@
 
 - 渡邉 直樹(LINE株式会社)
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/6QRY7mi2NiD4XE" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/linecorp/500-line-ads-platformspring" title="500+のサーバーで動く LINE Ads PlatformをささえるSpring" target="_blank">500+のサーバーで動く LINE Ads PlatformをささえるSpring</a> </strong> from <strong><a href="https://www.slideshare.net/linecorp" target="_blank">LINE Corporation</a></strong> </div>
+
 ## LINEのAds Platform
 
 - LINEの中に出てる広告

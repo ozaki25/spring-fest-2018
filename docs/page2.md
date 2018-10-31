@@ -3,6 +3,8 @@
 - 槙 俊明(Pivotal)
 - 鈴⽊ 順也(ソフトバンク・ペイメント・サービス株式会社)
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/dmcfSdQTKVO4YJ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/makingx/springpcf-jsug-sfh1" title="決済システムの内製化への旅 - SpringとPCFで作るクラウドネイティブなシステム開発 #jsug #sf_h1" target="_blank">決済システムの内製化への旅 - SpringとPCFで作るクラウドネイティブなシステム開発 #jsug #sf_h1</a> </strong> from <strong><a href="https://www.slideshare.net/makingx" target="_blank">Toshiaki Maki</a></strong> </div>
+
 ## 内製化に至る道程
 
 ### 2016
