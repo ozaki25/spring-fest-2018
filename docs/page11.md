@@ -1,6 +1,10 @@
 # Observability with Spring-Based Distributed Systems
 
 - Thomas Ludwig(楽天株式会社)
+- ↓違う講演のスライドだけどだいたい同じ
+    - 公開されたら差し替える
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/Abza9uvEmKkaEN" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/tommyludwig/observability-with-springbased-distributed-systems" title="Observability with Spring-based distributed systems" target="_blank">Observability with Spring-based distributed systems</a> </strong> from <strong><a href="https://www.slideshare.net/tommyludwig" target="_blank">Tommy Ludwig</a></strong> </div>
 
 ## Observability概要
 
