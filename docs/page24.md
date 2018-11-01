@@ -2,6 +2,11 @@
 
 - 佐川 夫美雄(アシラス株式会社)
 
+- ↓違う講演のスライドだけどだいたい同じ
+    - 公開されたら差し替える
+
+<iframe class="speakerdeck-iframe" frameborder="0" src="//speakerdeck.com/player/a7caf6f5eede4f92b7dc25c03e11a62c?" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="border: 0px; background: padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 720px; height: 404px;"></iframe>
+
 ## Web Application Design
 
 ### WebアプリとWebサイト
